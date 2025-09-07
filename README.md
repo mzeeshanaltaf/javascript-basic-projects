@@ -5,10 +5,18 @@ Basic JavaScript projects to practice DOM manipulation
 ![Color Changer](1-ColorChanger/ColorChanger.jpg)
 
 ## BMI Generator
-![Color Changer](2-BMIGenerator/BMICalculator.jpg)
+![BMI Generator](2-BMIGenerator/BMICalculator.jpg)
 
 ## Digital Clock
-![Color Changer](3-DigitalClock/DigitalClock.jpg)
+![Digital Clock](3-DigitalClock/DigitalClock.jpg)
 
 ## Guess The Number
-![Color Changer](4-GuessTheNumber/NumberGuessing.jpg)
+![Number Guessing](4-GuessTheNumber/NumberGuessing.jpg)
+
+## Unlimited Colors
+![Unlimited Colors](5-UnlimitedColors/UnlimitedColors.jpg)
+
+## Keyboard
+![Keyboard](6-Keyboard/KB_1.jpg)
+
+![Keyboard](6-Keyboard/KB_2.jpg)
